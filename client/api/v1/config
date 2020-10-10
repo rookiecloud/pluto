@@ -1,6 +1,4 @@
 {
-	"key": "pluto_malio",
-	"status": 1,
 	"target": 2,
 	"email": "theme.pluto@gmail.com",
 	"tg": "https://t.me/pluto_theme",
@@ -19,9 +17,6 @@
 		"Alipay": "1",
 		"Wechat": "1"
 	},
-	"expire_time": 1695225601,
-	"create_date": "2020-09-03",
-	"expire_date": "2023-09-20",
 	"hosts": [
 		"https://malio.aaxc.cc/"
 	]
