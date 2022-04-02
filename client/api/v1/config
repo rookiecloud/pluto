@@ -1,16 +1,16 @@
 {
 	"target": 2,
-	"email": "theme.pluto@gmail.com",
-	"tg": "https://t.me/pluto_theme",
-	"loginless": 1,
-	"loginless_link": "https://aaxc.cc/link/041HIcW1nqXDdVWD?sub=1&lt=2",
+	"email": "admin@rookiecloud.com",
+	"tg": "https://t.me/rookiecloud",
+	"loginless": 0,
+	"loginless_link": "",
 	"code_login": 0,
-	"code_register": 0,
-	"captcha_login": 3,
-	"captcha_register": 1,
-	"captcha_checkin": 3,
+	"code_register": 1,
+	"captcha_login": 2,
+	"captcha_register": 2,
+	"captcha_checkin": 2,
 	"notice": 1,
-	"checkin": 1,
+	"checkin": 0,
 	"line_flag_regex": "",
 	"line_exclude_loc": 1,
 	"payment_config": {
@@ -18,6 +18,6 @@
 		"Wechat": "1"
 	},
 	"hosts": [
-		"https://malio.aaxc.cc/"
+		"https://app.rookiebase.cn/"
 	]
 }
