@@ -1,10 +1,10 @@
 {
-	"code": 102010,
-	"name": "1.0.2",
-	"content": "",
-	"url": "",
+	"code": 104060,
+	"name": "1.0.4",
+	"content": "修复若干bug",
+	"url": "http://rookiecloud-soft.oss-accelerate.aliyuncs.com/tool/rookiecloud.apk",
 	"md5": "",
-	"force": 0,
+	"force": 1,
 	"qrcode": "",
-	"create_time": 1600067998
+	"create_time": 1651585200
 }
